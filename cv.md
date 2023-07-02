@@ -21,3 +21,26 @@
     <li> i want to get new knowledge for myself </li>
   </ul>
 </h2>
+<h2>Code exaple
+  <pre 
+<code> function makeNegative(num) {
+  // Code?
+  if (num <= 0){
+    return num;
+  }else{
+    return num * (-1);
+  }
+}
+</code>
+</pre>
+</h2>
+<h2> Education 
+  <ul>
+  in progress..
+  </ul>
+</h2>
+<h2> English
+  <ul>
+ A2 (in progress..)
+  </ul>
+</h2>
